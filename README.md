@@ -1,6 +1,26 @@
-# Single-Page-CV 
-This is a single-page CV project for roadmap.sh website.
-[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+# Single-Page CV
 
-To run a project, download SinglePageCV, make sure that inside of it are index.html and style.css.
-After that, just open index.html file via your preferred web browser.
+This is a Single-Page CV project for roadmap.sh.
+## Technologies Used
+  - HTML5
+  - CSS3
+  - Google Fonts (SUSE Mono)
+## Key Features
+  - Clean, professional CV layout
+  - Responsive design
+  - Semantic HTML structure
+  - Custom typography with SUSE Mono font
+  - Print-friendly styling
+## How to Run
+  - Download the Single-Page-CV folder
+  - Ensure it contains: `index.html` and `style.css`
+  - Open `index.html` in your preferred web browser
+## Design Highlights
+  - Modern, minimalist design
+  - Color-coded sections (green headers, blue subheaders)
+  - Proper spacing and typography hierarchy
+  - Cross-browser compatible
+  - Accessible semantic markup
+## Customization
+
+Simply edit the index.html file to add your personal information, experience, and education details. The styling will automatically adapt to your content.
