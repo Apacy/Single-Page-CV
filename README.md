@@ -15,6 +15,13 @@ This is a Single-Page CV project for roadmap.sh.
   - Download the Single-Page-CV folder
   - Ensure it contains: `index.html` and `style.css`
   - Open `index.html` in your preferred web browser
+## Project Structure
+```
+Single-Page-CV/
+│
+├── index.html
+└── style.css
+```
 ## Design Highlights
   - Modern, minimalist design
   - Color-coded sections (green headers, blue subheaders)
